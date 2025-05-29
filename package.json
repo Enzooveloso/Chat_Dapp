@@ -14,5 +14,8 @@
   "type": "module",
   "workspaces": [
     "src/chat_frontend"
-  ]
+  ],
+  "dependencies": {
+    "react-router-dom": "^7.6.1"
+  }
 }
